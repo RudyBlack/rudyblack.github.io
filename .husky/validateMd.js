@@ -4,10 +4,9 @@ const yaml = require('js-yaml'); // YAML 파싱을 위해 js-yaml 패키지 사�
 
 const CATEGORY = ['Journaling', 'Diary'];
 
-
 try {
   // Get the list of staged Markdown files
-  const output = execSync('git diff --cached --name-only | grep \\.md$ || true', { encoding: 'utf8' }).trim();
+  const output = execSync('git diff --cached --name-only --diff-filter=ACMR | grep \\.md$ || true', { encoding: 'utf8' }).trim();
   const files = output ? output.split('\n') : [];
 
   if (files.length === 0) {
@@ -16,6 +15,12 @@ try {
   }
 
   files.forEach((file) => {
+    // Check if the file exists
+    if (!fs.existsSync(file)) {
+      console.log(`Skipping validation for '${file}' as it does not exist.`);
+      return;
+    }
+
     console.log(`Checking file: ${file}`);
     const content = fs.readFileSync(file, 'utf8');
 
@@ -27,7 +32,7 @@ try {
 
       // Validate the category
       if (!CATEGORY.includes(category)) {
-        console.error(`Error: Invalid category '${category}' in ${file}. Allowed values are 'Journaling' or 'Diary'.`);
+        console.error(`Error: Invalid category '${category}' in ${file}. Allowed values are ${CATEGORY.join(', ')}.`);
         process.exit(1); // Fail if category is invalid
       }
     } else {

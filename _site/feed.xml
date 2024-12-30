@@ -4,7 +4,7 @@
   <id>http://localhost:4001/</id>
   <title>루디블랙의 기록 저장소</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-12-30T19:34:41+09:00</updated>
+  <updated>2024-12-30T19:36:50+09:00</updated>
   <author>
     <name>RudyBlack</name>
     <uri>http://localhost:4001/</uri>
@@ -34,7 +34,7 @@
 
   
     
-    <category term="Diary1" />
+    <category term="Diary" />
     
   
 
