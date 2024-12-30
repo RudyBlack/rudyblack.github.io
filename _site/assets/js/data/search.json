@@ -1,9 +1,9 @@
 [
   
   {
-    "title": "Test",
-    "url": "/posts/test/",
-    "categories": "Journaling1",
+    "title": "2024-12-30",
+    "url": "/posts/diary/",
+    "categories": "Diary1",
     "tags": "일상",
     "date": "2024-12-30 00:00:00 +0900",
     
@@ -13,8 +13,8 @@
 
 
     
-    "snippet": "테스트",
-    "content": "테스트"
+    "snippet": "컨디션: 중study: 6시간",
+    "content": "컨디션: 중study: 6시간"
   }
   
 ]
