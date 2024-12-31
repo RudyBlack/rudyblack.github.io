@@ -4,7 +4,7 @@
   <id>http://localhost:4001/</id>
   <title>루디블랙의 기록 저장소</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-12-30T22:30:45+09:00</updated>
+  <updated>2024-12-31T16:18:42+09:00</updated>
   <author>
     <name>RudyBlack</name>
     <uri>http://localhost:4001/</uri>
@@ -20,11 +20,51 @@
 
   
   <entry>
+    <title>2024-12-31</title>
+    <link href="http://localhost:4001/posts/diary/" rel="alternate" type="text/html" title="2024-12-31" />
+    <published>2024-12-31T00:00:00+09:00</published>
+  
+    <updated>2024-12-31T00:00:00+09:00</updated>
+  
+    <id>http://localhost:4001/posts/diary/</id>
+    <content type="text/html" src="http://localhost:4001/posts/diary/" />
+    <author>
+      <name>RudyBlack</name>
+    </author>
+
+  
+    
+    <category term="Diary" />
+    
+  
+
+  <summary>컨디션: 중하
+
+공부: 180분
+
+운동: -
+
+
+  
+    
+      수면: 5시간 15분
+      취침: 3:57am
+      기상: 8:06am
+    
+  
+
+
+규칙적인 생활을 철저히 하자.</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>2024-12-30</title>
     <link href="http://localhost:4001/posts/diary/" rel="alternate" type="text/html" title="2024-12-30" />
     <published>2024-12-30T00:00:00+09:00</published>
   
-    <updated>2024-12-30T19:36:55+09:00</updated>
+    <updated>2024-12-30T22:31:06+09:00</updated>
   
     <id>http://localhost:4001/posts/diary/</id>
     <content type="text/html" src="http://localhost:4001/posts/diary/" />
