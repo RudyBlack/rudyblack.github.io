@@ -4,7 +4,7 @@
   <id>http://localhost:4001/</id>
   <title>루디블랙의 기록 저장소</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-12-31T16:18:42+09:00</updated>
+  <updated>2025-01-03T15:11:33+09:00</updated>
   <author>
     <name>RudyBlack</name>
     <uri>http://localhost:4001/</uri>
@@ -13,7 +13,7 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4001/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
-  <rights> © 2024 RudyBlack </rights>
+  <rights> © 2025 RudyBlack </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
@@ -21,13 +21,13 @@
   
   <entry>
     <title>2024-12-31</title>
-    <link href="http://localhost:4001/posts/diary/" rel="alternate" type="text/html" title="2024-12-31" />
+    <link href="http://localhost:4001/posts/2024-12-31/" rel="alternate" type="text/html" title="2024-12-31" />
     <published>2024-12-31T00:00:00+09:00</published>
   
     <updated>2024-12-31T00:00:00+09:00</updated>
   
-    <id>http://localhost:4001/posts/diary/</id>
-    <content type="text/html" src="http://localhost:4001/posts/diary/" />
+    <id>http://localhost:4001/posts/2024-12-31/</id>
+    <content type="text/html" src="http://localhost:4001/posts/2024-12-31/" />
     <author>
       <name>RudyBlack</name>
     </author>
@@ -61,13 +61,13 @@
   
   <entry>
     <title>2024-12-30</title>
-    <link href="http://localhost:4001/posts/diary/" rel="alternate" type="text/html" title="2024-12-30" />
+    <link href="http://localhost:4001/posts/2024-12-30/" rel="alternate" type="text/html" title="2024-12-30" />
     <published>2024-12-30T00:00:00+09:00</published>
   
-    <updated>2024-12-30T22:31:06+09:00</updated>
+    <updated>2024-12-30T00:00:00+09:00</updated>
   
-    <id>http://localhost:4001/posts/diary/</id>
-    <content type="text/html" src="http://localhost:4001/posts/diary/" />
+    <id>http://localhost:4001/posts/2024-12-30/</id>
+    <content type="text/html" src="http://localhost:4001/posts/2024-12-30/" />
     <author>
       <name>RudyBlack</name>
     </author>
@@ -83,6 +83,90 @@
 공부: 360분
 
 운동: 90분</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>2025-01-02</title>
+    <link href="http://localhost:4001/posts/2024-01-02/" rel="alternate" type="text/html" title="2025-01-02" />
+    <published>2024-01-02T00:00:00+09:00</published>
+  
+    <updated>2024-01-02T00:00:00+09:00</updated>
+  
+    <id>http://localhost:4001/posts/2024-01-02/</id>
+    <content type="text/html" src="http://localhost:4001/posts/2024-01-02/" />
+    <author>
+      <name>RudyBlack</name>
+    </author>
+
+  
+    
+    <category term="Diary" />
+    
+  
+
+  <summary>컨디션: 하
+
+공부: 270분
+
+운동: -
+
+
+  
+    
+      수면: 7시간 31분
+      취침: 3:26am
+      기상: 10:00am
+      낮잠 1시간 반
+    
+  
+
+
+컨디션 매우 안좋았는데 계속 버티고 앉아 있으면 컨디션 돌아온다.
+
+수학 꾸준히 해가자.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>2025-01-01</title>
+    <link href="http://localhost:4001/posts/2024-01-01/" rel="alternate" type="text/html" title="2025-01-01" />
+    <published>2024-01-01T00:00:00+09:00</published>
+  
+    <updated>2024-01-01T00:00:00+09:00</updated>
+  
+    <id>http://localhost:4001/posts/2024-01-01/</id>
+    <content type="text/html" src="http://localhost:4001/posts/2024-01-01/" />
+    <author>
+      <name>RudyBlack</name>
+    </author>
+
+  
+    
+    <category term="Diary" />
+    
+  
+
+  <summary>컨디션: 하
+
+공부: -
+
+운동: -
+
+
+  
+    
+      수면: 9시간
+      취침: 2:00am
+      기상: 8:00am
+      낮잠 3시간
+    
+  
+
+
+술은 다음날 지장가지 않게 맥주만 마시자…</summary>
 
   </entry>
 
